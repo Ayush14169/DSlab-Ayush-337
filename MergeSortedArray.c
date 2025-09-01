@@ -26,7 +26,7 @@ void main(){
         }
     }
 
-    // Copy remaining elements
+
     while(i < n) {
         merged[k++] = arr1[i++];
     }
